@@ -8,6 +8,7 @@ private static final String String = null;
 //account 클래스 타입의 account 배열 선언 
 //메인 안의 모든 반목문에서 동등하게 쓰이기 위해 클래으밑단에 선언해줌(전역변수같은 느낌)
 private static ch6_26_Account[] account = new ch6_26_Account[100];
+
 private static	Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) {
